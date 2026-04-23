@@ -1,4 +1,4 @@
-# 🌍 Climate Compare — Dashboard Global de Dados Climáticos
+# Climate Compare | Dashboard Global de Dados Climáticos
 
 Um dashboard interativo que coleta, processa e visualiza dados climáticos em tempo real de qualquer cidade do mundo, permitindo comparações lado a lado.
 
