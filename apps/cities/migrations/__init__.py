@@ -1,0 +1,1 @@
+"""Cities app migrations package"""
